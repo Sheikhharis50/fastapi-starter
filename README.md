@@ -1,1 +1,1 @@
-# calcu-core
+# fastapi-starter
